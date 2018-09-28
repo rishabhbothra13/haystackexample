@@ -83,6 +83,8 @@
     
     <field name="text" type="text_en" indexed="true" stored="true" multiValued="false" />
     
+    <field name="title" type="text_en" indexed="true" stored="true" multiValued="false" />
+    
     <field name="pub_date" type="date" indexed="true" stored="true" multiValued="false" />
     
     <field name="author" type="text_en" indexed="true" stored="true" multiValued="false" />
